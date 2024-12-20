@@ -1,0 +1,10 @@
+.Tag-ok {
+  background-color: lightgrey !important;
+  color: green;
+}
+.Tag-danger {
+  background-color: black !important;
+  color: red;
+  text-transform: uppercase;
+  border-radius: 5% !important;
+}
