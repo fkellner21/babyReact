@@ -2,6 +2,7 @@
   "name": "baby",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fkellner21.github.io/babyReact",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
