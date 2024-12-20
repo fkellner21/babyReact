@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/babyReact/static/css/main.d914ab87.css",
+    "main.js": "/babyReact/static/js/main.d4059bf4.js",
+    "static/js/453.dcf3770e.chunk.js": "/babyReact/static/js/453.dcf3770e.chunk.js",
+    "index.html": "/babyReact/index.html",
+    "main.d914ab87.css.map": "/babyReact/static/css/main.d914ab87.css.map",
+    "main.d4059bf4.js.map": "/babyReact/static/js/main.d4059bf4.js.map",
+    "453.dcf3770e.chunk.js.map": "/babyReact/static/js/453.dcf3770e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d914ab87.css",
+    "static/js/main.d4059bf4.js"
+  ]
+}
